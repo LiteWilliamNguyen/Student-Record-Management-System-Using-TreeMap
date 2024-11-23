@@ -25,6 +25,6 @@ public class Main {
 
         // Display students with GPA > 3.0
         System.out.println("\nStudents with GPA > 3.0:");
-        manager.displayStudentsWithGpaAbove(3.0);
+        manager.displayStudentsAboveGpa(3.0);
     }
 }
